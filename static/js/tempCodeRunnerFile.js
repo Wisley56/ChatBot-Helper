@@ -1,0 +1,3 @@
+if (miniaturaImagem) {
+    //     miniaturaImagem.remove(); 
+    // }
